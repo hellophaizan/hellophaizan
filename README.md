@@ -1,4 +1,4 @@
-# Hi, I’m Phaizan
+# Hi, I’m Faizan
 
 ### Product Designer, Founder & Product Builder
 
