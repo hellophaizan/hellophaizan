@@ -2,11 +2,20 @@
 
 ### Product Designer, Founder & Product Builder
 
+**Founder of [Webzaro](https://www.webzaro.com/) · Cofounder of Sizora, Webzaro OS & Trade OS**
+
 I turn ideas into thoughtful digital products—connecting product strategy, clear user experiences, and careful execution. I work across design and building to move from an early concept to something useful in people’s hands.
 
 [Explore my design work](https://www.dribbble.com/hellophaizan) · [Book a conversation](https://calendly.com/hellophaizan)
 
 ---
+
+## What I’m building
+
+- **[Webzaro](https://www.webzaro.com/) — Founder:** bringing together brand strategy, product design, and app & website development.
+- **Sizora — Cofounder**
+- **Webzaro OS — Cofounder**
+- **Trade OS — Cofounder**
 
 ## What I bring
 
@@ -25,5 +34,6 @@ I value useful products, thoughtful visual design, and close collaboration betwe
 
 Have a product idea, a design challenge, or a collaboration in mind?
 
+- **Webzaro:** [webzaro.com](https://www.webzaro.com/)
 - **Design portfolio:** [dribbble.com/hellophaizan](https://www.dribbble.com/hellophaizan)
 - **Schedule a call:** [calendly.com/hellophaizan](https://calendly.com/hellophaizan)
